@@ -1,0 +1,24 @@
+Download Atom
+Packages 
+- atom-beautify
+- atom-ternjs
+- autoclose-html
+- emmet
+- csslint
+- linter
+- linter-jshint
+- pigments
+- language-ejs
+
+atom-html-priview
+sublime-style-column-selection
+eslint
+
+usefullinks
+1. devdocs.io
+2. w3schools documentation
+3. mdn documentation
+4. http://www.gutenberg.org/1661  - plain html
+5. codepen.io - edit HTML online
+6. http://web.archive.org/  - timeline of websites
+
